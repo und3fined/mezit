@@ -1,0 +1,13 @@
+/*
+ * File: global.css
+ * Project: mezit2.und3fined.com
+ * File Created: 13 Oct 2020 10:08:43
+ * Author: und3fined (me@und3fined.com)
+ * -----
+ * Last Modified: 13 Oct 2020 10:08:48
+ * Modified By: me@und3fined.com (me@und3fined.com>)
+ * -----
+ * Copyright (c) 2020 und3fined.com
+ */
+@tailwind base;
+@tailwind utilities;
